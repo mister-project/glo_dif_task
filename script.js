@@ -2,26 +2,6 @@ let num = 266219;
 let str1 = num.toString(); //перевод в тип данных string для разбивки числа на цифры
 console.log("Исходное число: " + str1);
 
-
-// let i = 0;
-// while (i < 6) { // выводит 0, затем 1, затем 2 э...
-//   console.log( str1[i]);
-  
-//       i++;
-//   console.log( str1[i++]);
- 
-// }
-// let n = 0;
-// let x = str1[n];
-// console.log(x);
-// while (n < 5) {
-//   n++
-// x = x * str1[n];
-// console.log(x);
-// }
- 
-
-
 let y = 1;
 
 for(let i = 0; i < 6; i++) {
